@@ -1,2 +1,2 @@
-Hi,we are learning Git together.
-Have a good time!
+# git_learning
+极客时间git学习
